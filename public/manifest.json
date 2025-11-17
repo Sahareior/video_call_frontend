@@ -1,0 +1,17 @@
+{
+  "short_name": "VideoCall Pro",
+  "name": "VideoCall Pro - HD Video Calling & Group Meetings",
+  "description": "High-quality video calling application with group support, screen sharing, and real-time communication",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "any"
+}
